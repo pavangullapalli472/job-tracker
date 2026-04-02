@@ -1,1 +1,7 @@
 jobs.db
+.env
+.env.*
+*.key
+*.pem
+__pycache__/
+*.pyc
